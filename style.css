@@ -68,13 +68,6 @@ body {
 	color: #fff;
 }
 
-.hamburger {
-	display: none;
-	height: 100px;
-	background-color: #272a30; 
-	text-align: right;
-	padding-right:50px;
-}
 
 @media screen and (max-width:760px) {
 	.main-menu {
