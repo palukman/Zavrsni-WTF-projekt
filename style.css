@@ -72,11 +72,11 @@ body {
 @media screen and (max-width:760px) {
 	.main-menu {
 		padding: 0;
-		display: none;
 	}
 	.main-menu li {
 		display: block;
 		text-align: center;
+		width: 100%;
 	}
 	.hamburger {
 		display: block;
